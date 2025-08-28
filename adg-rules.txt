@@ -1,3 +1,4 @@
+#网易云拦截规则
 ||union.gdtimg.com^
 ||browser.sentry-cdn.com^
 ||ssp-landing.taptap.cn^
