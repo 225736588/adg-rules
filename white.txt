@@ -1,6 +1,7 @@
 #米游社放行
 @@/(^|\.)miyoushe(\.|$)/
-#番茄小说首页放行
+#番茄小说放行[首页，真人听书]
+@@||v*-novelapp.fqnovelvod.com^$important
 @@||api5-normal-sinfonlinea.fqnovel.com^
 #123云盘放行
 @@||download-cdn.cjjd19.com^
