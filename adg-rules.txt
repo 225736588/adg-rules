@@ -1,3 +1,9 @@
+#书旗小说
+||sdk-log.*^$important
+||*sdk*.cn^$important
+||*.sm.cn^$important
+||*.iem.taptap.cn^$important
+||*log.jd.com^$important
 #针对天猫校园的拦截规则，勿删
 ||tnc*-aliec*.zijieapi.com^
 ||*.aiclk.com^
