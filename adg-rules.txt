@@ -2,8 +2,15 @@
 ||playhubconnect.com^
 ||acquiredeceasedundress.com^
 ||j.clarity.ms^
-||*.blcdog.con^
+||*.blcdog.com^
 ||*.sacdnssedge.com^
+||*-hls.sacdnssedge.com^
+||r.trackwilltrk.com^
+||acquiredeceasedundress.com^
+||scripts.clarity.ms^
+||*.afcdn.net^
+||www.kteawsjm.com^
+||s.chnsrv.com^
 #穿山甲补充
 ||umdc.alibabachengdun.com^
 ||*.partner.sm.cn^
