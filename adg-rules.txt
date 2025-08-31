@@ -1,3 +1,22 @@
+# 优量汇/广点通核心域名 (必拦)
+||gdt.qq.com^
+||qq.com^$domain=~txme.video.qq.com|~qpic.cn|~mail.qq.com
+||gtimg.cn^$domain=~qpic.cn
+||e.qq.com^
+||qdmm.com^
+||igamekr.com^
+||tcdn.qq.com^
+||mmtrix.com^
+||miaozhen.com^
+||tanx.com^
+||taobao.com^$domain=~www.taobao.com|~item.taobao.com|~detail.tmall.com|~trade.tmall.com
+||tanx.com^
+||doubleclick.net^
+||googleadsserving.cn^
+||googlesyndication.com^
+||google-analytics.com^
+||adservice.google.com^
+||adservice.google.*^
 # 核心广告服务域名
 ||gdt.qq.com^
 ||kuaishou.com^
