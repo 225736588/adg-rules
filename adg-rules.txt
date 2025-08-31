@@ -1,9 +1,28 @@
 #书旗小说
-||sdk-log.*^$important
-||*sdk*.cn^$important
-||*.sm.cn^$important
-||*.iem.taptap.cn^$important
-||*log.jd.com^$important
+||sdk-log.*^
+||*sdk*.cn^
+||*.sm.cn^
+||*.iem.taptap.cn^
+||*log.jd.com^
+# 拦截穿山甲主要域名
+||pangle.io^
+||pangle.io^$important
+||pangle-io.com^
+||pangle.io.edgekey.net^
+||pangle-sdk.com^
+||pangle.cn^
+||pangle-b.io^
+||pangle-b.com^
+# 拦截字节跳动/头条相关广告域名（很多是共通的）
+||snssdk.com^
+||toutiao.com^
+||bytedance.com^
+||bytedns.net^
+||byteimg.com^
+||bytecdn.cn^
+||amemv.com^
+||tiktokv.com^
+||musical.ly^
 #针对天猫校园的拦截规则，勿删
 ||tnc*-aliec*.zijieapi.com^
 ||*.aiclk.com^
