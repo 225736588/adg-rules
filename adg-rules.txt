@@ -1,3 +1,11 @@
+#穿山甲补充
+||umdc.alibabachengdun.com^
+||*.partner.sm.cn^
+||*.m.taobao.com^
+||*api.taobao.com^
+||*.ks-live.com^
+||*.uc.cn^
+||sdk.e.qq.com^
 # 汇川广告（华为广告联盟）核心域名
 ||hicloud.com^$domain=~vmall.com|~developer.huawei.com
 ||hms.baidu.com^
