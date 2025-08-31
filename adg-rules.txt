@@ -1,3 +1,22 @@
+# 拦截多盟核心域名 (domob.com 和 domob.cn 相关)
+||domob.com^
+||domob.cn^
+||domob.com.cn^
+||domob.org^
+||domobcdn.com^
+||domobcdn.cn^
+||dmapp.cn^
+||dmpan.com^
+# 使用通配符进行广泛匹配，确保覆盖子域名
+||*.domob.*
+||*.dmapp.cn^
+||*.domobcdn.*
+# 拦截包含广告特征、API接口和SDK的路径
+||*/domob/*
+||*/dmads/*
+||*/api/domob/
+||*/sdk/domob/
+||*/adsdk.domob.cn^
 #书旗小说
 ||sdk-log.*^
 ||*sdk*.cn^
