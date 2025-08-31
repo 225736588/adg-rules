@@ -1,3 +1,18 @@
+# 核心广告服务域名
+||gdt.qq.com^
+||kuaishou.com^
+||kwai.com^
+||kwaicdn.com^
+||yximgs.com^
+||ksyun.com^
+||cip6.com^
+||cmpassport.com^
+||cmvideo.cn^
+||cmonitor.com^
+||ksoby.com^
+||kwaizh.com^
+||kwaicdn.org^
+||kwaicdn.net^
 # 拦截多盟核心域名 (domob.com 和 domob.cn 相关)
 ||domob.com^
 ||domob.cn^
