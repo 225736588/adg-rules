@@ -1,3 +1,5 @@
+#正则合集
+/(^|\.)(ad|ads|ks|kuaishou|sdk|log|baidu|quark|weibo|ele|vivo|huichuan)(\.|$)/
 #某天堂
 ||playhubconnect.com^
 ||acquiredeceasedundress.com^
