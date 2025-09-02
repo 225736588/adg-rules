@@ -880,6 +880,7 @@
 ||*.flysleep.cn^
 ||img.newaircloud.com^
 ||sentry-ov.*.com^
+/.*sentry.*/
 ||*.wxcjgg.cn^
 ||rtawin.daikuan.360.cn^
 ||at.pinduoduo.com^
