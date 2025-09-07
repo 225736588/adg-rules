@@ -1,7 +1,5 @@
 #番茄小说首页放行
 @@||api5-normal-sinfonlinea.fqnovel.com^
-#123云盘放行
-@@||download-cdn.cjjd19.com^
 #deepseek放行
 @@||open.bigmodel.cn^
 #广告拦截测试放行
@@ -11,7 +9,8 @@
 @@||fc.kejiweixun.com^
 #针对转转App的放行规则
 @@||*.zhuanzhuan.com^
-#针对123云盘的放行
+#123云盘放行
+@@||download-cdn.cjjd19.com^
 @@||sdk-api.beizi.biz^
 #针对腾讯QQ的放行
 @@||c.pc.qq.com^
