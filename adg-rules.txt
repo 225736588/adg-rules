@@ -1,7 +1,7 @@
 #正则合集
 /(^|\.)(ad|ads|ks|kuaishou|sdk|log|baidu|quark|weibo|ele|vivo|oppo|huichuan|yangkeduo|amazonaws|mmfree1)(\.|$)/
 #正则合集pddsdk
-/(a|m|at|lp|xg|th|api|apm|adim|meta|api-shb1|sh2|mobile|mobile-sht|th-b)\.pinduoduo.(com|net|cn)/
+/(a|m|at|lp|xg|th|api|apm|adim|meta|api-shb1|sh2|mobile|mobile-sht|th-b|apm-a)\.pinduoduo.(com|net|cn)/
 #某天堂
 ||playhubconnect.com^
 ||acquiredeceasedundress.com^
