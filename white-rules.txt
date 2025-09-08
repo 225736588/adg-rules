@@ -1,3 +1,6 @@
+#智己/闪购客服放行
+@@||link*.yunxinfw.com^
+@@||ai-ecs-alimebot.ele.me^
 #番茄小说首页放行
 @@||api5-normal-sinfonlinea.fqnovel.com^
 #deepseek放行
