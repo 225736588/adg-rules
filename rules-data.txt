@@ -33,14 +33,10 @@
 ||737qq.pw^
 ||azhibo.com^
 ||xfzb2.cc^
-||626772.com^
 ||aoqinglv.cn^
 ||laifupal.com^
-||44444444444.xyz^
 ||031i12oe.xyz^
-||55555555555.online^
 ||031i12oe.shop^
-||3333333333333.xyz^
 ||ww7814.win^
 ||scjpqut.cn^
 ||wsacjdg.cn^
@@ -116,7 +112,6 @@
 ||ljyy846.xyz^
 ||scxj1031.xyz^
 ||ht33ii.xyz^
-||2290059.xyz^
 ||zmzzfsdfdslk333.com^
 ||tanan119.com^
 ||longlingsc.art^
@@ -131,7 +126,6 @@
 ||fr5uptmx.com^
 ||sq570z.top^
 ||qt62q.top^
-||35072.net^
 ||playlustofus.com^
 ||cse1.cc^
 ||sq572z.top^
@@ -142,7 +136,7 @@
 ||auto423.com^
 ||fpoq818.com^
 ||yuchengxinxia.xyz^
-  - /^bw.*\.(vip|com)/
+/^bw.*\.(vip|com)/
 ||dingouqc.com^
 ||fendou888.top^
 ||joxx.cn^
@@ -163,7 +157,6 @@
 ||dzigj.com^
 ||ag-bj.2023126wz522.xyz^
 ||uwge590.com^
-||273343.com^
 ||ero-labs.website^
 ||sq1005.cn^
 ||instv*.com^
@@ -171,7 +164,6 @@
 ||ap-o.freespace.top^
 ||ymrz581.com^
 ||9129yjtp.com^
-||49666664.com^
 ||63797b.com^
 ||8916a.xyz^
 ||socket.tw^
@@ -183,7 +175,6 @@
 ||haohaohao17.xyz^
 ||hgkaiarin93.xyz^
 ||t91215.xyz^
-||84652.net^
 ||t91772.xyz^
 ||cgyx.tv^
 ||swesz.cn^
@@ -200,7 +191,6 @@
 ||002st.top^
 ||a50xf.com^
 ||wifwroi.com^
-||65564535.com^
 ||31xx4325a.cc^
 ||loje863.cc^
 ||ofodai.com^
@@ -232,11 +222,9 @@
 ||ds4x53xfg4f53gh453h.top^
 ||wcald72.xyz^
 ||vqoorz.cn^
-||758758.xyz^
 ||cimumusic.com^
 ||jxx2502a.cc^
 ||rdcyr.cn^
-||91204.icu^
 ||capmvb.net^
 ||lpvbupak.shop^
 ||dy03bw0.pro^
@@ -252,7 +240,6 @@
 ||oz8xhen.top^
 ||zxmx.net^
 ||spfccc.com^
-||701110.xyz^
 ||tnhkwrs.com^
 ||vmgikpw.com^
 ||zxtld.com^
@@ -291,7 +278,6 @@
 ||nianlia.com^
 ||zxhychina.com^
 ||ktx769.cc^
-||82098999.com^
 ||leeuvl.cn^
 ||pevdwb.cn^
 ||izeokt.cn^
@@ -339,7 +325,6 @@
 ||a48699053.top^
 ||ufueng.cn^
 ||gdxlks.cn^
-||83082308.com^
 ||pubend81372.vip^
 ||mm51-tbsg1542.cc^
 ||33slthiy.vip^
@@ -349,7 +334,6 @@
 ||syxiangguang.com^
 ||mv71.top^
 ||vfyrehthw.top^
-||199221.top^
 ||grejskx.com^
 ||xtu224.com^
 ||scbt.asia^
@@ -380,9 +364,7 @@
 ||ashcnq.cn^
 ||hovcu4.top^
 ||sezkkb.cn^
-||177638.com^
 ||vip-01.top^
-||91037.icu^
 ||b58456413.com^
 ||gg86639.vip^
 ||aoao11190iis.top^
@@ -396,11 +378,8 @@
 ||qckkz.cn^
 ||djlacgc.top^
 ||yblar.cn^
-||35609731.xyz^
 ||yk11eakg20pm01.com^
-||02539717.com^
 ||o2in8un5qlkj533twx.com^
-||004999.xyz^
 ||whpnd.cn^
 ||qcsxjvc.cn^
 ||cdocker401.com^
@@ -428,8 +407,6 @@
 ||180rgwee.com^
 ||2034kp.vip^
 ||kp12a.top^
-||85795.today^
-||3377539.app^
 ||tk029.click^
 ||bobobo65.icu^
 ||tgd54.xyz^
@@ -465,7 +442,6 @@
 ||qlwmt.cn^
 ||kksp004.top^
 ||jingpengpeixun.xyz^
-||110556.xyz^
 ||xtd36.top^
 ||ed4d3uu.nl^
 ||xhsrt594.vip^
@@ -496,7 +472,6 @@
 ||ahtdqlz.cn^
 ||juyu.app^
 ||xybnim.xyz^
-||8356792.cc^
 ||utbcd.cn^
 ||ehgssdg.cn^
 ||bpmzabw.cn^
@@ -571,10 +546,10 @@
 ||*.b5gvpk5.com^
 ||*.eavztdi.com^
 #针对字节跳动系列广告的拦截规则'
-||ads*-normal-hl.zijieapi.com^important'
-||log*-applog-hl.fqnovel.com^important'
-||rtlog*-applog-hl.fqnovel.com^important'
-||p*-ad-sign.byteimg.com^important'
+||ads*-normal-hl.zijieapi.com^
+||log*-applog-hl.fqnovel.com^
+||rtlog*-applog-hl.fqnovel.com^
+||p*-ad-sign.byteimg.com^
 ||abtest*-misc-hl.zijieapi.com^
 ||gecko5-lq.zijieapi.com^
 ||zlink.toutiao.com^
@@ -840,4 +815,3 @@
 ||ts43x.top^
 ||dd9018.nektozevrxolvryc7mmraon.com^
 ||b84e-74.uw3wri6g.cc^
-
