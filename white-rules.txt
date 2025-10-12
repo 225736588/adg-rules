@@ -1,3 +1,7 @@
+#抖音视频放行
+@@/(^|\.)douyinvod.com/
+#快跑官网放行
+@@||*.xn--4oqy37a1na874bjmj.com^
 #针对AppleMusic的放行规则'
 @@||itunes.apple.com^
 @@||xp.apple.com^
