@@ -10,6 +10,8 @@
 @@||grpc.biliapi.net^
 #百度贴吧/贴吧lite放行'
 @@/^(img.*|tiebapic|tieba|wappass|tiebac|tb.himg|sofire)\.baidu.com/
+#百度知道，百科放行
+@@/^(zhidao|baike)\.baidu.com/
 #针对抖音App的放行规则'
 @@||dig.bdurl.net^
 #针对饿了么APP登录的放行规则'
@@ -18,8 +20,7 @@
 @@||api5-normal-sinfonlinea.fqnovel.com^
 @@/v(\d+)\-novelapp.fqnovelvod.com/
 #针对消息推送/FCM的放行规则'
-@@||push.*^
-@@||*push.*^
+@@/push/
 #针对谷歌商店更新应用的误杀放行'
 @@||rr*---sn-*.xn--ngstr-lra8j.com^
 #美团/美团众包放行'
@@ -37,11 +38,10 @@
 @@/^qun.qq.com/
 @@||ti.qq.com^
 #QQ音乐图片放行'
-@@/y\.(gtimg|qq)\.(cn|com)/
+@@/^y\.(gtimg|qq)\.(cn|com)/
 #ssu官方下载放行'
 @@||emas-devops-cdn.aliyuncs.com^
 #针对搜狗输入法的放行规则'
-@@||srss.speech.sogou.com^
 @@||shouji.sogou.com^
 #网易云音乐放行'
 @@/^(api.look|dun)\.163.com/
@@ -54,5 +54,3 @@
 #针对特殊域名拦截与放行'
 @@||iyfbodn.com^
 @@/^(\d{6})\.[a-z]/
-#针对谷歌商店更新应用的误杀放行
-@@||rr*---sn-*.xn--ngstr-lra8j.com^
