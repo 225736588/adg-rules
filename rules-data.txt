@@ -1,10 +1,10 @@
-#酷狗测试
-||config.mobile.kugou.com
-||report.tencentmusic.com
-||cc.map.qq.com
-||api.tencentmusic.com
+#酷狗
+||tmead.y.qq.com^
+||ads.privacy.qq.com^
+||mdpfilebssdlbig.kugou.com^
 ||tmeadcomm.y.qq.com
-||gateway.kugou.com
+||adserviceretry.kglink.cn^
+||gatewayretry.kugou.com^
 #针对部分小众广告联盟的规则'
 ||zhangyuyidong.cn^
 ||api.edimob.com^
