@@ -6,9 +6,10 @@
 ||adserviceretry.kglink.cn^
 ||gatewayretry.kugou.com^
 #跳转下载
-#||wrqw.bq8c8y.top^
-#||www.kc3419.cc^
-#||iskdyfwosnyfyudwwh.vroudb.com^
+||wrqw.bq8c8y.top^
+||www.kc3419.cc^
+||iskdyfwosnyfyudwwh.vroudb.com^
+||one6.com^
 ||topdalao.lanzoui.com^
 ||z23r562938.iask.in^
 ||api.umengcn.org^
