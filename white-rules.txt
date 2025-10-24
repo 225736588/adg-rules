@@ -54,3 +54,10 @@
 #针对特殊域名拦截与放行'
 @@||iyfbodn.com^
 @@/^(\d{6})\.[a-z]/
+#MT管理器更新
+@@||p11-flow-download-sign.byteimg.com^$important
+#快手短视频
+@@||nebula.kuaishou.com^
+@@||v23-3.kwaicdn.com^
+#妖火帖子图片
+@@||m.360buyimg.com^
