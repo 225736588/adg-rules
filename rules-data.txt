@@ -8,6 +8,16 @@
 #谷歌类广告
 ||notrack.specificclick.net^
 /^analytics.*.[a-z]/
+## 拦截视频广告
+||pubads.g.doubleclick.net^
+||securepubads.g.doubleclick.net^
+||video-ad-stats.googlesyndication.com^
+## 拦截激励视频广告
+||googleads.g.doubleclick.net^
+||mobileads.google.com^
+## 拦截横幅广告
+||pagead2.googlesyndication.com^
+||tpc.googlesyndication.com^
 #跳转下载
 ||wrqw.bq8c8y.top^
 ||www.kc3419.cc^
