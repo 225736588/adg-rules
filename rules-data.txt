@@ -8,6 +8,26 @@
 #谷歌类广告
 ||notrack.specificclick.net^
 /^analytics.*.[a-z]/
+## 拦截谷歌广告服务
+||googleadservices.com^
+||googlesyndication.com^
+||doubleclick.net^
+||google-analytics.com^
+||gstatic.com^$domain=~gstatic.com.good
+## 拦截通用广告网络
+||adsense.com^
+||admob.com^
+||applovin.com^
+||unity3d.com^
+||vungle.com^
+||chartboost.com^
+||facebook.com^$domain=~facebook.com.good
+## 拦截跟踪和分析
+||appsflyer.com^
+||adjust.com^
+||amplitude.com^
+||firebaseio.com^
+||crashlytics.com^
 ## 拦截视频广告
 ||pubads.g.doubleclick.net^
 ||securepubads.g.doubleclick.net^
