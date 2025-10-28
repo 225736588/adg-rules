@@ -19,7 +19,7 @@
 ||admob.com^
 ||applovin.com^
 ||unity3d.com^
-||wordpress.com^
+||wordpress.com^$domain=stats.wp.com
 ||vungle.com^
 ||chartboost.com^
 ||facebook.com^$domain=~facebook.com.good
