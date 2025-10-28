@@ -19,6 +19,7 @@
 ||admob.com^
 ||applovin.com^
 ||unity3d.com^
+||wordpress.com^
 ||vungle.com^
 ||chartboost.com^
 ||facebook.com^$domain=~facebook.com.good
