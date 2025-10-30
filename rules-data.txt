@@ -1,3 +1,8 @@
+#123云盘
+||trace.aqyad.com^
+||sdk-track.66mobi.com^
+||sdkapi.cloooud.com^
+||statics.123957.com^
 #酷狗
 ||tmead.y.qq.com^
 ||ads.privacy.qq.com^
