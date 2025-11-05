@@ -68,7 +68,7 @@
 @@||log.snssdk.com^
 @@||tnc3-alisc1.snssdk.com^
 #针对KiMiAPP的误杀放行规则
-@@||prod-chat-kimi.tos-cn-beijing.volces.com^$importa
+@@||prod-chat-kimi.tos-cn-beijing.volces.com^
 #针对夸克网盘App的误杀放行规则
 @@||pan.quark.cn^
 @@||download.uc.cn^
@@ -76,4 +76,6 @@
 @@||access-open.quark.cn^
 #针对OPPO主题卡片的误杀放行规则
 @@||smartcard.apps.coloros.com^
+#点杀泰坦国际服放行
+@@||s3.amazonaws.com^
 
