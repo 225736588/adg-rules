@@ -1039,6 +1039,10 @@
 ||amazon.com^
 ||amazonaws.com^
 ||amazon-adsystem.com^
+|]affiliationjs.s3.amazonaws.com^
+||advice-ads.s3.amazonaws.com^
+||analyticsengine.s3.amazonaws.com^
+||adtago.s3.amazonaws.com^
 #Unity3D游戏引擎
 ||unity3d.com^
 ||unitychina.cn^
