@@ -202,7 +202,6 @@
 ||activity.baidu.com^
 ||ada.baidu.com^
 ||fc-ccimage.baidu.com^
-||miaozhen.com^
 ||sptest.baidu.com^
 ||uisong.baidu.com^
 ||hpd.baidu.com^
@@ -1062,50 +1061,7 @@
 ||*.ks-live.com^
 ||*.uc.cn^
 ||sdk.e.qq.com^
-#汇川广告（华为广告联盟）核心域名
-||hicloud.com^$domain=~vmall.com|~developer.huawei.com^
-||hms.baidu.com^
-||vmall.com^$domain=~content.*.vmall.com^
-||hicloud.com^$domain=~*.hicloud.com^
-||hishop.com^
-||hispay.com^
-||hihonor.com^
-||huawei.com^$domain=~developer.huawei.com|~repo.huaweicloud.com^
-||hwccpc.com^
-||hwtelcloud.com^
-||myhuaweicloud.com^
-||huaweicloud.com^
-||hcia.huawei.com^
-||hcie.huawei.com^
-||hcip.huawei.com^
-||hcna.huawei.com^
-||hcdn.com^
-/hcdn.*.com/
-# 优量汇/广点通核心域名 (必拦)
-||dutils.com^
-||gdt.qq.com^
-||qq.com^$domain=~txme.video.qq.com|~qpic.cn|~mail.qq.com^
-||gtimg.cn^$domain=~qpic.cn^
-||e.qq.com^
-||qdmm.com^
-||igamekr.com^
-||tcdn.qq.com^
-||mmtrix.com^
-||taobao.com^$domain=~www.taobao.com|~item.taobao.com|~detail.tmall.com|~trade.tmall.com^
-# 核心广告服务域名
-||kuaishou.com^
-||kwai.com^
-||kwaicdn.com^
-||yximgs.com^
-||ksyun.com^
-||cip6.com^
-||cmpassport.com^
-||cmvideo.cn^
-||cmonitor.com^
-||ksoby.com^
-||kwaizh.com^
-||kwaicdn.org^
-||kwaicdn.net^
+
 
 
 
