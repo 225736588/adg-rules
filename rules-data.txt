@@ -1164,8 +1164,8 @@
 ||advertise.bingads.microsoft.com^
 ||www.bingads.microsoft.com^
 ||rad.microsoft.com^
-||global.msads.net
-||a.global.msads.net
+||global.msads.net^
+||a.global.msads.net^
 ||rad.live.com^
 ||a.ads1.msn.com^
 ||a.ads2.msn.com^
@@ -1199,7 +1199,7 @@
 ||displayads-formats.googleusercontent.com^
 ||www.googletagmanager.com^
 ||www.googletagservices.com^
-||stat.googleanalysis.mobi
+||stat.googleanalysis.mobi^
 ||afs.googlesyndication.com^
 ||video-ad-stats.googlesyndication.com^
 ||googleadapis.google.com^
@@ -1213,32 +1213,32 @@
 ||doubleclick.com^
 ||www.doubleclick.com^
 ||g.doubleclick.com^
-||adclick.g.doublecklick.net
+||adclick.g.doublecklick.net^
 ||googleads.g.doubleclick.com^
-||doubleclick.net
-||accounts.doubleclick.net
-||ad-emea.doubleclick.net
-||ff.doubleclick.net
-||fls.doubleclick.net
-||5290727.fls.doubleclick.net
-||8168974.fls.doubleclick.net
-||8397396.fls.doubleclick.net
-||g.doubleclick.net
-||adx.g.doubleclick.net
-||bid.g.doubleclick.net
-||cm.g.doubleclick.net
-||googleads.g.doubleclick.net
-||googleads4.g.doubleclick.net
-||pagead.l.doubleclick.net
-||pagead46.l.doubleclick.net
-||partnerad.l.doubleclick.net
-||pubads.g.doubleclick.net
-||securepubads.g.doubleclick.net
-||stats.g.doubleclick.net
-||survey.g.doubleclick.net
-||dart.l.doubleclick.net
-||m.doubleclick.net
-||s0.doubleclick.net
+||doubleclick.net^
+||accounts.doubleclick.net^
+||ad-emea.doubleclick.net^
+||ff.doubleclick.net^
+||fls.doubleclick.net^
+||5290727.fls.doubleclick.net^
+||8168974.fls.doubleclick.net^
+||8397396.fls.doubleclick.net^
+||g.doubleclick.net^
+||adx.g.doubleclick.net^
+||bid.g.doubleclick.net^
+||cm.g.doubleclick.net^
+||googleads.g.doubleclick.net^
+||googleads4.g.doubleclick.net^
+||pagead.l.doubleclick.net^
+||pagead46.l.doubleclick.net^
+||partnerad.l.doubleclick.net^
+||pubads.g.doubleclick.net^
+||securepubads.g.doubleclick.net^
+||stats.g.doubleclick.net^
+||survey.g.doubleclick.net^
+||dart.l.doubleclick.net^
+||m.doubleclick.net^
+||s0.doubleclick.net^
 
 #油管推脸书P站
 ||facebook.com^$domain=~facebook.com.good
@@ -1248,22 +1248,24 @@
 ||static.ads-twitter.com^
 ||analytics.twitter.com^
 ||ads-twitter.com^
-||pixon.ads-pixiv.net
-||open-pixon.ads-pixiv.net
-||d.pixiv.org
-||sh.adingo.jp  #↓P站
-||dex.advg.jp
-||y.one.impact-ad.jp
+||pixon.ads-pixiv.net^
+||open-pixon.ads-pixiv.net^
+||d.pixiv.org^
+||sh.adingo.jp^  #↓P站
+||dex.advg.jp^
+||y.one.impact-ad.jp^
 ||js.mtburn.com^
-||spcnv.i-mobile.co.jp
-||spdmg-backend.i-mobile.co.jp
+||spcnv.i-mobile.co.jp^
+||spdmg-backend.i-mobile.co.jp^
 ||spdmg.i-mobile.co.jp
 ||assets.gunosy.com^  #↑P站
 ||staticxx.facebook.com^
 ||dc.ads.linkedin.com^  #领英
 ||syndication.twitter.com^
-||tapi.apkpure.net  #APKpure广告图
-||t.apkpure.net
+||tapi.apkpure.net^  #APKpure广告图
+||t.apkpure.net^
+||twadvertising.com^
+||twitterads.com^
 
 #Spotify(音频广告去不掉)
 ||audio-ad.spotify.com^
