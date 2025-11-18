@@ -336,6 +336,8 @@
 ||jr-ad.ctrip.com^
 ||rtawin.daikuan.360.cn^
 #木马网站跳转，防劫持
+||f1943w.com^
+||txmov2.a.kwimgs.com^
 ||wrqw.bq8c8y.top^
 ||www.kc3419.cc^
 ||iskdyfwosnyfyudwwh.vroudb.com^
@@ -1158,6 +1160,7 @@
 ||catdot.dianping.com^
 ||dot.api.idmzj.com^
 ||doh.iqiyi.com^
+||*.*dns.com^
 
 #微软广告
 ||bingads.microsoft.com^
