@@ -1161,6 +1161,7 @@
 ||dot.api.idmzj.com^
 ||doh.iqiyi.com^
 ||*.*dns.com^
+||cdn.dns*.*^
 
 #微软广告
 ||bingads.microsoft.com^
