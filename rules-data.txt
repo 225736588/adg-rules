@@ -336,6 +336,8 @@
 ||jr-ad.ctrip.com^
 ||rtawin.daikuan.360.cn^
 #木马网站跳转，防劫持
+||static.cloudflareinsights.com^
+||aliyunddos*.com^
 ||bossjs.rosfky.cn^
 ||mxana.tacool.com^
 ||code.jquery.com^
