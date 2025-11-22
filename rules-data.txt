@@ -31,6 +31,7 @@
 ||bc-ad-vod.zdmimg.com^
 ||aaid.uyunad.com^
 #百度相关拦截
+||cloud.baidu.com^
 ||crab.baidu.com^
 ||dxp.baidu.com^
 ||hm.baidu.com^
@@ -1081,6 +1082,15 @@
 
 
 #字节跳动系列
+||dig.bdurl.net/q?host=www.chengzijianzhan.com&
+/^stats.wp.com/
+||lf3-config.bytetcc.com^$important
+/(^|\.)(bytedance|vegslb|ugdtimg|bytednsdoc|bytegecko|bytetos|vegslb|ndcpp|zijieapi|isnssdk|snssdk|fanqiesdk|baohuaxia|jinritemai|juliangyinqing|chengzijianzhan|chengzijianzhan[a-z]|zhilingxingchen|xingtu|yilucaifu|youdianyisi|shidianguji|oceanengine|bytedcdn|searchpstatp|bytegoofy)\.(com|cn)/
+/^(luna-web|interactive)\.douyin.com/
+/(^|\.|\-)cdn.open-douyin..*/
+/(^|\.)pstatp.com/
+||sdkgen.data.tianwenca.com^
+||*applog-lq.fqnovel.com^
 ||zlink.ugsdk.cn^
 ||isaas5-normal-lq.ecombdapi.com^
 ||frontier100-toutiao-lq.fqnovel.com^
@@ -1165,8 +1175,6 @@
 ||catdot.dianping.com^
 ||dot.api.idmzj.com^
 ||doh.iqiyi.com^
-||*.*dns.com^
-||cdn.dns*.*^
 
 #微软广告
 ||bingads.microsoft.com^
