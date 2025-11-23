@@ -277,6 +277,7 @@
 ||h5.ele.me^
 /(^|\.)xycdn.com/
 ||nstool.laiqukankan.com^
+||nstool.zhuanzfx.com^
 ||qiezibenpao.com^
 #屏蔽国家反诈中心及其相关域名
 ||g*fzpt.cn^
@@ -1161,6 +1162,9 @@
 ||amemv.com^
 ||tiktokv.com^
 ||musical.ly^
+#西瓜视频
+||log*-applog-lq.ixigua.com^
+
 #HTTPDNS相关域名链接
 ||httpdns.*^
 ||dns*.weixin.qq.*^
@@ -1275,11 +1279,14 @@
 ||spcnv.i-mobile.co.jp^
 ||spdmg-backend.i-mobile.co.jp^
 ||spdmg.i-mobile.co.jp
-||assets.gunosy.com^  #↑P站
+||assets.gunosy.com^
+#↑P站
 ||staticxx.facebook.com^
-||dc.ads.linkedin.com^  #领英
+||dc.ads.linkedin.com^
+#领英
 ||syndication.twitter.com^
-||tapi.apkpure.net^  #APKpure广告图
+||tapi.apkpure.net^
+#APKpure广告图
 ||t.apkpure.net^
 ||twadvertising.com^
 ||twitterads.com^
@@ -1296,8 +1303,10 @@
 ||tr6.snapchat.com^
 
 #腾讯视频
-||acc.qq.com^  #腾讯视频片头广告，已知8.5~8.9版本安装完APP头三次打开APP播放不了视频，关掉再开，重复几次就好了；7.5.0和定制版8.6没网，需要移除本条，移除后7.5也不会有片头广告；9.0.X去片头后其它正常。
-||vv6.video.qq.com^  #腾讯视频9.0之后的开屏广告
+||acc.qq.com^
+#腾讯视频片头广告，已知8.5~8.9版本安装完APP头三次打开APP播放不了视频，关掉再开，重复几次就好了；7.5.0和定制版8.6没网，需要移除本条，移除后7.5也不会有片头广告；9.0.X去片头后其它正常。
+||vv6.video.qq.com^
+#腾讯视频9.0之后的开屏广告
 ||bla.gtimg.com^
 ||ra.gtimg.com^
 ||adsrich.qq.com^
@@ -1311,7 +1320,8 @@
 ||static-res.qq.com^
 ||tetrack.qq.com^
 ||xs.gdt.qq.com^
-||xsweb.gdt.qq.com^  #QQ阅读抓出
+||xsweb.gdt.qq.com^
+#QQ阅读抓出
 ||isrpt-vn.gdt.qq.com^
 #欢乐麻将弹窗广告。两个都能单独屏蔽抽奖的弹窗广告(活动领奖励的弹窗未屏蔽)，第二个看起来还有别家用可能会误杀，好像是游戏资源下载
 ||hlmj.broker.tplay.qq.com^
