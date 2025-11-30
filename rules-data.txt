@@ -1083,10 +1083,10 @@
 
 
 #字节跳动系列
-||dig.bdurl.net/q?host=www.chengzijianzhan.com&
+||dig.bdurl.net/q?host=www.chengzijianzhan.com&^
 /^stats.wp.com/
-||lf3-config.bytetcc.com^$important
-/(^|\.)(bytedance|vegslb|ugdtimg|bytednsdoc|bytegecko|bytetos|vegslb|ndcpp|zijieapi|isnssdk|snssdk|fanqiesdk|baohuaxia|jinritemai|juliangyinqing|chengzijianzhan|chengzijianzhan[a-z]|zhilingxingchen|xingtu|yilucaifu|youdianyisi|shidianguji|oceanengine|bytedcdn|searchpstatp|bytegoofy)\.(com|cn)/
+||lf3-config.bytetcc.com^
+/(^|\.)(fanqiesdk|baohuaxia|jinritemai|juliangyinqing|chengzijianzhan|chengzijianzhan[a-z]|zhilingxingchen|xingtu|yilucaifu|youdianyisi|shidianguji|oceanengine|bytedcdn|searchpstatp|bytegoofy)\.(com|cn)/
 /^(luna-web|interactive)\.douyin.com/
 /(^|\.|\-)cdn.open-douyin..*/
 /(^|\.)pstatp.com/
@@ -1152,6 +1152,7 @@
 ||abtest*-misc.zijieapi.com^
 ||track.ranfenghd.com^
 ||tnc*-alisc*.zijieapi.com^
+
 #西瓜视频
 ||log*-applog-lq.ixigua.com^
 ||smtcdns.com^
