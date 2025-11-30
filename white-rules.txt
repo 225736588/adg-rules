@@ -79,5 +79,5 @@
 #点杀泰坦国际服放行
 @@/^s3.amazonaws.com/
 #酷狗/酷狗概念版分享一起听
-@@||activity.kugou.com^$important
+@@||activity.kugou.com^
 
