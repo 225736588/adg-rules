@@ -1150,20 +1150,16 @@
 ||statics.adanxing.com^
 ||adx.dictapis.cn^
 ||abtest*-misc.zijieapi.com^
-||ugsdk.cn^
 ||track.ranfenghd.com^
 ||tnc*-alisc*.zijieapi.com^
-||snssdk.com^
-||toutiao.com^
-||bytedance.com^
-||bytedns.net^
-||byteimg.com^
-||bytecdn.cn^
-||amemv.com^
-||tiktokv.com^
-||musical.ly^
 #西瓜视频
 ||log*-applog-lq.ixigua.com^
+||smtcdns.com^
+||aidak.hnzkclouds.com^
+||*.ldhy.click^
+||lf*-*sdk-sign.dailygn.com^
+/v96.bdxiguavod.com.cdn.chinamobile.com/
+
 
 #HTTPDNS相关域名链接
 ||httpdns.*^
