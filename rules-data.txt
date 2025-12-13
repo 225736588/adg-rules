@@ -6,9 +6,8 @@
 ||ugapi.alipay.com^
 #酷狗
 ||tmead.y.qq.com^
-||mdpfilebssdlbig.kugou.com^
 ||tmeadcomm.y.qq.com^
-||gatewayretry.kugou.com^
+/^(mdpfilebssdlbig|gatewayretry|h5|h5retry|voowebpbssdl)\.kugou.com/
 ##通用广告网络
 ||adsense.com^
 ||admob.com^
