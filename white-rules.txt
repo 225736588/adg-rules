@@ -59,12 +59,19 @@
 #网易云音乐放行
 @@/^(api.look|dun)\.163.com/
 @@||st.music.163.com^
+
+#小米系列
 #针对小米相册AI编辑的放行规则
 @@||mcc.inf.miui.com^
 #针对小米云备份的放行规则
 @@||a0.app.xiaomi.com^
 #针对小米互联互通的放行规则
 @@||hpplay.cn^
+#小米骚扰拦截 数据库更新
+@@||api.sec.miui.com^
+#小米推送(mipush)
+@@||cn.app.chat.xiaomi.net^
+
 #针对特殊域名拦截与放行
 @@||iyfbodn.com^
 @@/^(\d{6})\.[a-z]/
