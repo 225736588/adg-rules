@@ -126,3 +126,11 @@
 @@||retcode.taobao.com^
 #悦通行放行
 @@||v.110route.cn^
+#领跑放行
+@@/(bbcmall|loan-h5|lptestdrive|apptec-invite|lpex-eventtracking|user-growth|feedback|appgateway|vehicleowner)\.leapmotor\.com/
+@@/(bbcmallapi|bbcmall|apptec|lp-resource-pool|carod-center|appuser|app-front-gateway|lpau|lptestdrive|store-center)\.leapmotor\.cn/
+@@/(ueapp|lpmall-dop-prod|cds-prod)\.oss-cn-hangzhou\.aliyuncs\.com/
+@@||smartlink-resources.oss-cn-beijing.aliyuncs.com^
+
+#未知放行
+@@||acs-m.koubei.com^
