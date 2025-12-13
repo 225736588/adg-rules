@@ -1193,7 +1193,7 @@
 ||rmads.msn.com^
 
 #谷歌广告
-/^analytics.*.[a-z]/
+#/^analytics.*.[a-z]/ 误杀一些应用的一起看，一起听相关
 ||googleadsserving.cn^
 ||adservice.google.*^
 ||crashlytics.com^
@@ -1269,7 +1269,8 @@
 ||pixon.ads-pixiv.net^
 ||open-pixon.ads-pixiv.net^
 ||d.pixiv.org^
-||sh.adingo.jp^  #↓P站
+||sh.adingo.jp^  
+#↓P站
 ||dex.advg.jp^
 ||y.one.impact-ad.jp^
 ||js.mtburn.com^
@@ -1277,7 +1278,7 @@
 ||spdmg-backend.i-mobile.co.jp^
 ||spdmg.i-mobile.co.jp
 ||assets.gunosy.com^
-#↑P站
+#脸书
 ||staticxx.facebook.com^
 ||dc.ads.linkedin.com^
 #领英
