@@ -110,6 +110,7 @@
 @@||*.ecombdimg.com^
 @@||lf-sourcecdn-tos.bytegecko.com^
 @@||lf-dy-sourcecdn-tos.bytegecko.com^
+@@||*.amemv.com^
 
 #uc放行
 @@||www.uc.cn^
