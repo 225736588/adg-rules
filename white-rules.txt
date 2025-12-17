@@ -106,6 +106,15 @@
 #西瓜视频登录放行
 @@||security.snssdk.com^
 @@||config2.cmpassport.com^
+@@||v3.bdxiguavod.com^
+@@||*.ecombdimg.com^
+@@||lf-sourcecdn-tos.bytegecko.com^
+@@||lf-dy-sourcecdn-tos.bytegecko.com^
+
+#uc放行
+@@||www.uc.cn^
+
+
 #UC/夸克网盘的放行'
 @@||quark.*^
 @@||download.uc.cn^
