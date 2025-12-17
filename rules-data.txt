@@ -1285,6 +1285,7 @@
 ||mobileads.msn.com^
 ||rmads.eu.msn.com^
 ||rmads.msn.com^
+||bingapp.microsoft.com^
 
 #谷歌广告
 #/^analytics.*.[a-z]/ 误杀一些应用的一起看，一起听相关
