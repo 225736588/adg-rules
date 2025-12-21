@@ -7,7 +7,12 @@
 #酷狗
 ||tmead.y.qq.com^
 ||tmeadcomm.y.qq.com^
-/^(mdpfilebssdlbig|gatewayretry|h5|h5retry|voowebpbssdl)\.kugou.com/
+/^(mdpfilebssdlbig|gatewayretry|h5|h5retry|voowebpbssdl|gateway)\.kugou.com/
+||report.tencentmusic.com^
+||api.tencentmusic.com^
+/^(gad|mvads|adservice|activity|ads.bssdl|adserviceretry)\.(kglink|kugou)\.(cn|com)/
+
+
 ##通用广告网络
 ||adsense.com^
 ||admob.com^
