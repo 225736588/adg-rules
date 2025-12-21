@@ -14,7 +14,7 @@
 #百度贴吧/贴吧lite放行
 @@/^(img.*|tiebapic|tieba|wappass|tiebac|tb.himg|sofire)\.baidu.com/
 #百度知道，百科放行
-@@/^(zhidao|baike)\.baidu.com/
+@@/^(zhidao|baike|ada)\.baidu.com/
 #饿了么APP登录的放行
 @@||ipassport.ele.me^
 #番茄小说首页放行
@@ -153,3 +153,4 @@
 @@||acs-m.koubei.com^
 #地图类放行
 @@||*.amap.*^
+
