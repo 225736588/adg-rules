@@ -95,6 +95,21 @@
 @@||download.uc.cn^
 @@||novel-api.quark.cn^
 @@||access-open.quark.cn^
+@@||quark.*^
+@@||broccoli.uc.cn^
+@@||id-card.yun.cn^
+@@||family-m-api.uc.cn^
+@@||clouddrive-activity.uc.cn^
+@@||ucus.ucweb.com^
+@@||ynuf.alipay.com^
+@@||order.sm.cn^
+@@||story-api.uc.cn^
+@@||drama-api.uc.cn^
+@@||api2-album.uc.cn^
+@@||user-auth-server.uc.cn^
+@@||api-album.uc.cn^
+@@||id.uc.cn^
+@@||drive.uc.cn^
 #针对OPPO主题卡片的误杀放行规则
 @@||smartcard.apps.coloros.com^
 #点杀泰坦国际服放行
@@ -116,23 +131,6 @@
 @@||www.uc.cn^
 
 
-#UC/夸克网盘的放行'
-@@||quark.*^
-@@||download.uc.cn^
-@@||broccoli.uc.cn^
-@@||id-card.yun.cn^
-@@||family-m-api.uc.cn^
-@@||clouddrive-activity.uc.cn^
-@@||ucus.ucweb.com^
-@@||ynuf.alipay.com^
-@@||order.sm.cn^
-@@||story-api.uc.cn^
-@@||drama-api.uc.cn^
-@@||api2-album.uc.cn^
-@@||user-auth-server.uc.cn^
-@@||api-album.uc.cn^
-@@||id.uc.cn^
-@@||drive.uc.cn^
 #OPPO主题卡片的放行'
 @@||smartcard.apps.coloros.com^
 #淘宝App部分放行'
