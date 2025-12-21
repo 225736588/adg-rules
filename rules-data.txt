@@ -1186,6 +1186,21 @@
 ||lf*-*sdk-sign.dailygn.com^
 /v96.bdxiguavod.com.cdn.chinamobile.com/
 
+||*/api/ad/*^$important
+||*/ug/ad/*^$important
+||*/ad/*^$important
+||*/ads/*^$important
+||api-play.amemv.com^$important
+||lf-webcast-*.bytegecko.com^$media
+||*.douyinvod.com/ad/*$xmlhttprequest
+||api*.amemv.com^$domain=ixigua.com
+||pull-*.ixigua.com^$important
+||pull-*.douyincdn.com^$important
+||pull-*.douyin.com^$important
+||v*-default.*.com^$important
+||vdefault-*.*.com^$important
+
+
 ||111.7.88.216^
 ||183.204.70.217^
 ||assets.immersivetranslate.cn^
