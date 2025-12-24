@@ -121,7 +121,6 @@
 #西瓜视频登录放行
 @@||security.snssdk.com^
 @@||config2.cmpassport.com^
-@@||v3.bdxiguavod.com^
 @@||*.ecombdimg.com^
 @@||lf-sourcecdn-tos.bytegecko.com^
 @@||lf-dy-sourcecdn-tos.bytegecko.com^
