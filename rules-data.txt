@@ -1182,6 +1182,8 @@
 /.*aligames.*/
 /.*tsyouto.*/
 /.*umeng.*/
+/pagead.js$domain=adblock.turtlecute.org
+/widget/ads.^
 
 #西瓜视频
 ||log*-applog-lq.ixigua.com^
@@ -1191,19 +1193,19 @@
 ||lf*-*sdk-sign.dailygn.com^
 /v96.bdxiguavod.com.cdn.chinamobile.com/
 
-||*/api/ad/*^$important
-||*/ug/ad/*^$important
-||*/ad/*^$important
-||*/ads/*^$important
-||api-play.amemv.com^$important
-||lf-webcast-*.bytegecko.com^$media
+||*/api/ad/*^
+||*/ug/ad/*^
+||*/ad/*^
+||*/ads/*^
+||api-play.amemv.com^
+||lf-webcast-*.bytegecko.com^
 ||*.douyinvod.com/ad/*$xmlhttprequest
 ||api*.amemv.com^$domain=ixigua.com
-||pull-*.ixigua.com^$important
-||pull-*.douyincdn.com^$important
-||pull-*.douyin.com^$important
-||v*-default.*.com^$important
-||vdefault-*.*.com^$important
+||pull-*.ixigua.com^
+||pull-*.douyincdn.com^
+||pull-*.douyin.com^
+||v*-default.*.com^
+||vdefault-*.*.com^
 
 
 ||111.7.88.216^
