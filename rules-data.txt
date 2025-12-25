@@ -1182,8 +1182,10 @@
 /.*aligames.*/
 /.*tsyouto.*/
 /.*umeng.*/
-/pagead.js$domain=adblock.turtlecute.org
-/widget/ads.^
+||*/pagead.js$domain=adblock.turtlecute.org
+||*/widget/ads.js^
+adblock.turtlecute.org##.adbox.banner_ads.adsbox
+d3ward.github.io##.textads
 
 #西瓜视频
 ||log*-applog-lq.ixigua.com^
