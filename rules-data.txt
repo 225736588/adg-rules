@@ -1157,6 +1157,14 @@
 ||abtest*-misc.zijieapi.com^
 ||track.ranfenghd.com^
 ||tnc*-alisc*.zijieapi.com^
+||aweme.snssdk.com^
+||frontier-aweme.snssdk.com^
+||dig.bdurl.net^
+||pull*.bytecdn.cn^
+/www\.(baidu|toutiao)\.com/
+||v3-*.bdxiguavod.com^
+
+
 
 ||dm.toutiao.com^
 ||log.snssdk.com^
