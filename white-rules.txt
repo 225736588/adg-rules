@@ -150,4 +150,9 @@
 @@||acs-m.koubei.com^
 #地图类放行
 @@||*.amap.*^
+#Taptap登录放行
+@@||accounts.taptap.cn^
+#QQ人脸放行
+@@||static-res.qq.com^
+
 
