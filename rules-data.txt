@@ -26,7 +26,6 @@
 ||tuiguang.iqiyi.com^
 ||static.iqiyi.com^
 
-
 ##通用广告网络
 ||adsense.com^
 ||admob.com^
@@ -53,6 +52,7 @@
 ||crab.baidu.com^
 ||dxp.baidu.com^
 ||hm.baidu.com^
+||hmma.baidu.com^
 ||nsclick.baidu.com^
 ||pos.baidu.com^
 ||sp1.baidu.com^
