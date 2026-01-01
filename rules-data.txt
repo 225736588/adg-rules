@@ -13,8 +13,10 @@
 /^(gad|mvads|adservice|activity|ads.bssdl|adserviceretry)\.(kglink|kugou)\.(cn|com)/
 #爱奇艺首页视频广告
 ||mtdb2.mitai-link.com^
-||fqv2.xiamenfq.com^
+||*.xiamenfq.com^
 ||*.inter.iqiyi.com^
+/(^|\.)inter.\d{2}edge.com/
+||*.wangjuiot.com^
 ||cpro.baidustatic.com^
 ||static-*.iqiyi.com^
 ||pic*.iqiyipic.com/image^
