@@ -16,12 +16,15 @@
 ||fqv2.xiamenfq.com^
 ||*.inter.iqiyi.com^
 ||cpro.baidustatic.com^
-||static-s.iqiyi.com^
+||static-*.iqiyi.com^
 ||pic*.iqiyipic.com/image^
 ||doh.iqiyi.com^
 ||cards-css.iqiyi.com^
 ||*msg.qy.net^
 ||msg.qy.net^
+||cmts.iqiyi.com^
+||tuiguang.iqiyi.com^
+||static.iqiyi.com^
 
 
 ##通用广告网络
