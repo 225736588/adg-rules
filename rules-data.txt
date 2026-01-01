@@ -11,6 +11,17 @@
 ||report.tencentmusic.com^
 ||api.tencentmusic.com^
 /^(gad|mvads|adservice|activity|ads.bssdl|adserviceretry)\.(kglink|kugou)\.(cn|com)/
+#爱奇艺首页视频广告
+||mtdb2.mitai-link.com^
+||fqv2.xiamenfq.com^
+||*.inter.iqiyi.com^
+||cpro.baidustatic.com^
+||static-s.iqiyi.com^
+||pic*.iqiyipic.com/image^
+||doh.iqiyi.com^
+||cards-css.iqiyi.com^
+||*msg.qy.net^
+||msg.qy.net^
 
 
 ##通用广告网络
