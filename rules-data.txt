@@ -1299,20 +1299,6 @@ d3ward.github.io##.textads
 ||t7z.cupid.iqiyi.com^
 ||uc.cn^$app=com.shuqi.controller
 
-#HTTPDNS相关域名链接
-||httpdns.*^
-||dns*.weixin.qq.*^
-||dns.qq.com^
-||*dns.weixin.qq.*^
-||doh.dns.apple.com^
-||doh.ptqy.gitv.tv^
-||dns.qiyipic.iqiyi.com^
-||dns.weibo.cn^
-||dns.jd.com^
-||dns.m.sm.cn^
-||catdot.dianping.com^
-||dot.api.idmzj.com^
-||doh.iqiyi.com^
 
 #微软广告
 ||bingads.microsoft.com^
