@@ -1,5 +1,5 @@
 #抖音放行
-@@/(^|\.)douyinvod.com/
+#@@/(^|\.)douyinvod.com/
 #抖音App的放行
 @@||dig.bdurl.net^
 
